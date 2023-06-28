@@ -1,0 +1,2 @@
+# SQL
+SQL exercises, coursework
